@@ -38,7 +38,7 @@
               visibility: visible;
               fill: none;
               fill-opacity: 1;
-              stroke: rgba(140, 191, 243, 1);
+              stroke: rgba(243, 140, 183, 1);
               stroke-width: 6;
               stroke-linecap: butt;
               stroke-linejoin: round;
@@ -55,9 +55,9 @@
                 display: inline;
                 overflow: visible;
                 visibility: visible;
-                fill: rgba(140, 191, 243, 1);
+                fill: rgba(243, 140, 183, 1);
                 fill-opacity: 1;
-                stroke: rgba(140, 191, 243, 1);
+                stroke: rgba(243, 140, 183, 1);
                 stroke-width: 2;
                 stroke-linecap: butt;
                 stroke-linejoin: round;
@@ -69,7 +69,7 @@
                 enable-background: accumulate"/>
 
         <path style="color: #000;
-                fill: rgba(7, 25, 43, 0.87);
+                fill: rgba(43, 7, 22, 0.87);
                 stroke-linecap: round;
                 stroke-linejoin: round;
                 -inkscape-stroke: none"
